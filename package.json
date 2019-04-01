@@ -1,0 +1,22 @@
+{
+  "name": "calculatornodejs",
+  "version": "1.0.0",
+  "description": "Simple calculator nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilocartagena/CalculatorNodeJS.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Camilo Cartagena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilocartagena/CalculatorNodeJS/issues"
+  },
+  "homepage": "https://github.com/camilocartagena/CalculatorNodeJS#readme"
+}
