@@ -4,7 +4,8 @@
   "description": "Simple calculator nodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "nyc mocha --timeout=3000",
+    "cover": "istanbul cover _mocha"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,11 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "coveralls": "^3.0.3",
-    "mocha": "^6.0.2"
+    "istanbul": "^0.4.5",
+    "mocha": "^6.0.2",
+    "nyc": "^13.3.0"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0"
   }
 }
