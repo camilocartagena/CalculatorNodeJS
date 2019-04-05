@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1554230821719" clover="3.2.0">
-  <project timestamp="1554230821719" name="All files">
+<coverage generated="1554489349414" clover="3.2.0">
+  <project timestamp="1554489349414" name="All files">
     <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="13" coveredelements="13" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="calculator.js" path="C:\Users\camilo.cartagena\Documents\CalculatorNodeJS\app\calculator.js">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
